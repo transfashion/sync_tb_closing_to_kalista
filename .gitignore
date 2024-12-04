@@ -1,0 +1,9 @@
+.vscode
+/vendor/
+
+start.sh
+config-production.sh
+
+log.txt
+debug.txt
+config-production.php
